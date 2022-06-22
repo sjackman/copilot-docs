@@ -169,7 +169,7 @@ Copilot. If you wish to rebind them, check out [the configuration guide](configu
 
 * Show next inline suggestion: `Alt + ]` or `Option (⌥) + ]`.
 
-* Show previous inline suggestion: `Alt + [` or `Option (⌥) + [`.
+* Show previous inline suggestion: `Alt + [` or `Option (⌥) + [`.x
 
 * Trigger inline suggestion: `Alt + \` or `Option (⌥) + \`.
 
